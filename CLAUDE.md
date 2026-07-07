@@ -11,6 +11,3 @@
 - Use meaningful variable names.
 - Add comments where needed.
 - Follow best practices.
-
-
-- docs: add CLAUDE instructions
