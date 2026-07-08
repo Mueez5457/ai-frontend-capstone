@@ -12,7 +12,7 @@ My AI Frontend Capstone Project.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-frontend-capstone.git
+git clone https://github.com/Mueez5457/ai-frontend-capstone.git
 ```
 
 2. Go into the project folder:
